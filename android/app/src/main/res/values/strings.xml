@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Aura Unfiltered</string>
+    <string name="title_activity_main">Aura Unfiltered</string>
+    <string name="package_name">com.aura.unfiltered</string>
+    <string name="custom_url_scheme">com.aura.unfiltered</string>
+</resources>
